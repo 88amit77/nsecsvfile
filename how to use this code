@@ -1,0 +1,9 @@
+Steps to use code
+1.Install libs- selenium and click
+2.Download chrome driver from this link="https://chromedriver.chromium.org/downloads"
+3.Webdriver.Chrome("path of chrome driver")
+4.Start date and End date mustbe in formate(ex-02-09-2019)
+
+
+essue-I am not able to click on download data.csv file option through code. 
+
